@@ -58,10 +58,6 @@ Este é um site interativo inspirado no universo do Batman. Ele contém informa�
 2. Abra o arquivo `index.html` diretamente em seu navegador.
 3. Certifique-se de que o arquivo `app.js` esteja corretamente vinculado ao HTML para garantir o funcionamento da funcionalidade de e-mail e gerenciamento de crimes.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 ## Observações
